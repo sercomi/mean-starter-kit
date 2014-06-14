@@ -29,3 +29,6 @@ build
 #php
 composer.phar
 composer.lock
+
+#vendor
+node_modules

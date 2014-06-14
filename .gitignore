@@ -32,3 +32,4 @@ composer.lock
 
 #vendor
 node_modules
+public/libs
